@@ -32,4 +32,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ![TypeScript](https://img.shields.io/badge/TypeScript-00b4d8?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0a9396?style=for-the-badge&logo=prisma&logoColor=white)
+![Socket.Io](https://img.shields.io/badge/Socket.io-232F3E?style=for-the-badge&logo=socket.io&logoColor=white)
+![GitHub OAuth](https://img.shields.io/badge/OAuth-2C2D72?style=for-the-badge&logo=GitHub&logoColor=white)
 
