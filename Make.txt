@@ -1,0 +1,5 @@
+- [] Finalizar UseCases
+- [] Finalizar Projeto
+- [] Postar Projeto Linkedin e GitHub
+- [] Entender Fluxo para aplicar em outros projetos
+- [] Encrementar Projeto cpm conhecimentos próprios
