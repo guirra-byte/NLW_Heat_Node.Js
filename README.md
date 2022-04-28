@@ -26,6 +26,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x]  WebSocket (Mensagens em tempo real - Client e Server)
 - [ ]  Retornar 3 últimas mensagens
 - [ ]  Criar profile do user
+- [ ]  Front-End com React.Js
 
 ## Feito Com: ⚒
 ![Node.Js](https://img.shields.io/badge/Node.js-52b788?style=for-the-badge&logo=node.js&logoColor=white)
